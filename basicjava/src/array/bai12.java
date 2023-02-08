@@ -25,6 +25,7 @@ public class bai12 {
             m=a[i];
         }
         System.out.println("max is :"+ m);
+        system.out.pritnln("try repair");
 
 
 
